@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathanJMay
-- 👀 I’m interested in ... Data Analytics for Public Policy and social determinants of health
+- 👀 I’m interested in ... Data Analytics for Public Policy (especially healthcare policy) and Social Determinants of Health
 - 🌱 I’m currently learning ... Lots of R!
 - 📫 How to reach me ... shoot me an email at nathanjosephmay@gmail.com
 
